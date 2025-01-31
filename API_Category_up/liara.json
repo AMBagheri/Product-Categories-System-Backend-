@@ -1,0 +1,8 @@
+{
+  "disk": [
+    {
+      "name": "data-kanata",
+      "mountTo": "uploads"
+    }
+  ]
+}
